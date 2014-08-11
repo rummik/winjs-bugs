@@ -1,0 +1,10 @@
+﻿body {
+    background: #fff;
+}
+
+x-ms-webview {
+    box-sizing: border-box;
+    width: 45%;
+    height: 250px;
+    border: 1px solid #000;
+}
